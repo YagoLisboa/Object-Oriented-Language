@@ -11,4 +11,5 @@
         <maven.compiler.target>20</maven.compiler.target>
         <exec.mainClass>unidade2.secao1.ex1.Secao2</exec.mainClass>
     </properties>
+    <name>Unidade2</name>
 </project>
